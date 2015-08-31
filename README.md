@@ -1,5 +1,4 @@
 # hello-world
-Introduction to creating repositories
 
 Hello world! 
 
